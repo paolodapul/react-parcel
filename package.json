@@ -1,0 +1,19 @@
+{
+  "name": "react-parcel",
+  "version": "0.0.1",
+  "description": "React + Parcel starter template",
+  "main": "index.js",
+  "repository": "git@github.com:paolodapul/react-parcel.git",
+  "author": "Paolo Dapul <paolodapultech@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
